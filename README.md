@@ -1,6 +1,6 @@
 # Learning React with Scrimba
 
-This repository shows some of the work done relating to Scrimba's Learn React course.
+This repository shows some of the work done relating to Scrimba's Learn React course. In this case the Travel Journal under the Data Driven React section of the Scrimba Course.
 
 
 ## Resources
